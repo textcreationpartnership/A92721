@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scotland's lament for their misfortunes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92721</idno>
+            <idno type="STC">Wing S2016A</idno>
+            <idno type="STC">ESTC R183615</idno>
+            <idno type="EEBO-CITATION">45097940</idno>
+            <idno type="OCLC">ocm 45097940</idno>
+            <idno type="VID">171515</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171515)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotland's lament for their misfortunes.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scottish poetry --  To 1700.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171515:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <pb facs="tcp:171515:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 30 -->
+            <head>SCOTLAND'S LAMENT FOR Their MISFORTUNES.</head>
+            <l>PRay liſten and hear of the ſad ſtate</l>
+            <l>has hapened to SCOTLAND of late</l>
+            <l>And this my part which I've begun,</l>
+            <l>will now declare their Misfortune.</l>
+            <l>And truly this is very ſad,</l>
+            <l>enough to make a wiſe Man mad,</l>
+            <l>Theſe bypaſt Years have been ſo bad,</l>
+            <l>ther's Thouſands dyed for lake of Bread.</l>
+            <l>As yet it is not like to end,</l>
+            <l>till we the People do amend:</l>
+            <l>If an <hi>Indian Trade</hi> we do attemp,</l>
+            <l>likewiſe of Sin let as Repent.</l>
+            <l>At firſt by it we could do no good,</l>
+            <l>not being aſſiſted by our GOD;</l>
+            <l>We've loſt our Men, and our Money,</l>
+            <l>our Provender, and Ships at Sea,</l>
+            <l>Thô it be ſo it is no Wonder,</l>
+            <l>for the great Sin which we ly under,</l>
+            <l>Of good Religion we make a ſhew,</l>
+            <l>but oh! alace! it is not true.</l>
+            <l>Many Words we do make up on heap,</l>
+            <l>which makes us like the <hi>Hypocrite,</hi>
+            </l>
+            <l>They are not in Sincetiry,</l>
+            <l>alace! too like the <hi>Phariſee;</hi>
+            </l>
+            <l>Yet if in Goodneſs we do augment,</l>
+            <l>our GOD is good, and will Repent,</l>
+            <l>He'l give us Succeſs to our Trade,</l>
+            <l>that we our En'mies may invade,</l>
+            <l>A hard beginning is the beſt,</l>
+            <l>and will our good Friend prove at laſt.</l>
+            <l>Let us take Courage ſtill yet more,</l>
+            <l>for whom HE Loves HE chaſtens ſore.</l>
+            <l>Therefore our Trade we need not fear,</l>
+            <l>theſe are good News, that we do hear,</l>
+            <l>The ſafety of the <hi>Riſing-Sun,</hi>
+            </l>
+            <l>to inhabite <hi>Darien</hi> will go on;</l>
+            <l>Let us take Courage and be glade,</l>
+            <l>hoping to have a gallant Trade:</l>
+            <l>But if we ſtill Rebels Remain,</l>
+            <l>againſt our Maſter to Conſpire,</l>
+            <l>He will then come as with a Train,</l>
+            <l>and ſet our Houſes all on fire.</l>
+            <l>As in <hi>Edinburgh</hi> that Gallant City,</l>
+            <l>(Saving His will) had been great pity.</l>
+            <l>Into the Year ſeven Hundred,</l>
+            <l>this ſad Misfortune hap'ned,</l>
+            <l>In <hi>February</hi> the third day,</l>
+            <l>the incroaching fire did mount ſo high,</l>
+            <l>That the beſt Buildings in the Town,</l>
+            <l>by force of it were pulled down,</l>
+            <l>Theſe brave Buildings, that were ſo high,</l>
+            <l>the like was not in that Kingdoms three.</l>
+            <l>Full Fifteen Stories high or ſo,</l>
+            <l>yet by the Fire they're brought low,</l>
+            <l>Which cauſed many one to mourn,</l>
+            <l>Two Hundred Families there did burn.</l>
+            <l>Now the ſame Quarter of the Town,</l>
+            <l>thrice by the Fire has been pulled down;</l>
+            <l>We may receive it as a Wedge,</l>
+            <l>for the horrid Sin Sacraledge,</l>
+            <l>And other ſins which GOD doth move,</l>
+            <l>to afflict his People, them to prove,</l>
+            <l>Such as Pride, whoſe Patron's Hell,</l>
+            <l>whoſe Father is the Devil himſelf,</l>
+            <l>To break the Sabbath is a ſhame,</l>
+            <l>to Whore, and Drink, and to Blaſpheme,</l>
+            <l>To Cheat and lie, to Steel and Rive,</l>
+            <l>this age abounds wherein we live;</l>
+            <l>Therefore let us Repent with ſpeed,</l>
+            <l>for ſure there never was more need.</l>
+            <l>For theſe his Threatnings on us all,</l>
+            <l>we may receive them as a call,</l>
+            <l>And make Confeſſion of our Sins,</l>
+            <l>which all theſe Evils on us brings,</l>
+            <l>Over the ſame dayly to Mourn,</l>
+            <l>leaſt that into Hell's Fire we burn.</l>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:171515:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+         </div>
+      </body>
+   </text>
+</TEI>
